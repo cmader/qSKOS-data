@@ -1,0 +1,4 @@
+= qSKOS-data
+
+== About
+This repository contains data, results and further information related the {qSKOS project}[https://github.com/cmader/qSKOS]
