@@ -8,8 +8,11 @@ In the following sections we provide a short description and additional informat
 
 === AGROVOC
 Description: Multilingual agricultural thesaurus published by the Food and Agriculture Organization (FAO) of the United Nations
+
 Publisher: http://aims.fao.org/website/AGROVOC-Thesaurus/sub
+
 Download: http://code.google.com/p/agrovoc-cs-workbench/downloads/detail?name=agrovoc_SKOS-RDFXML_2012-03-22.zip&can=3&q=
+
 Filename: agrovoc_wb_20110223_v_1_3.rdf
 
 === DBpedia Categories
