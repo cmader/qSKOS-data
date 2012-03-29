@@ -7,13 +7,10 @@ This repository contains data, results and further information related the {qSKO
 In the following sections we provide a short description and additional information about the dataset we used for our paper "Finding Quality Issues in SKOS Vocabularies" (submitted for TPDL 2012).
 
 === AGROVOC
-Description: Multilingual agricultural thesaurus published by the Food and Agriculture Organization (FAO) of the United Nations
-
-Publisher: http://aims.fao.org/website/AGROVOC-Thesaurus/sub
-
-Download: http://code.google.com/p/agrovoc-cs-workbench/downloads/detail?name=agrovoc_SKOS-RDFXML_2012-03-22.zip&can=3&q=
-
-Filename: agrovoc_wb_20110223_v_1_3.rdf
+* Description: Multilingual agricultural thesaurus published by the Food and Agriculture Organization (FAO) of the United Nations
+* Publisher: http://aims.fao.org/website/AGROVOC-Thesaurus/sub
+* Download: http://code.google.com/p/agrovoc-cs-workbench/downloads/detail?name=agrovoc_SKOS-RDFXML_2012-03-22.zip&can=3&q=
+* Filename: agrovoc_wb_20110223_v_1_3.rdf
 
 === DBpedia Categories
 Description: Wikipedia's user-generated categories structure
