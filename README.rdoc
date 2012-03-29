@@ -58,7 +58,7 @@ Publisher: http://id.loc.gov/download/
 
 Download: http://id.loc.gov/static/data/authoritiessubjects.rdfxml.skos.zip
 
-Filename: lcsh.rdf
+Filename: subjects-skos.rdf
 
 === Meketre
 Description: Thesaurus of the Meketre Project that contains concepts from the Egyptology domain
