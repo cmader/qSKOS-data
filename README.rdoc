@@ -7,73 +7,109 @@ This repository contains data, results and further information related the {qSKO
 In the following sections we provide a short description and additional information about the dataset we used for our paper "Finding Quality Issues in SKOS Vocabularies" (submitted for TPDL 2012).
 
 === AGROVOC
-* Description: Multilingual agricultural thesaurus published by the Food and Agriculture Organization (FAO) of the United Nations
-* Publisher: http://aims.fao.org/website/AGROVOC-Thesaurus/sub
-* Download: http://code.google.com/p/agrovoc-cs-workbench/downloads/detail?name=agrovoc_SKOS-RDFXML_2012-03-22.zip&can=3&q=
-* Filename: agrovoc_wb_20110223_v_1_3.rdf
+Description: Multilingual agricultural thesaurus published by the Food and Agriculture Organization (FAO) of the United Nations
+
+Publisher: http://aims.fao.org/website/AGROVOC-Thesaurus/sub
+
+Download: http://code.google.com/p/agrovoc-cs-workbench/downloads/detail?name=agrovoc_SKOS-RDFXML_2012-03-22.zip&can=3&q=
+
+Filename: agrovoc_wb_20110223_v_1_3.rdf
 
 === DBpedia Categories
 Description: Wikipedia's user-generated categories structure
+
 Publisher: http://dbpedia.org
+
 Download: http://downloads.dbpedia.org/3.7/en/skos_categories_en.nt.bz2
+
 Filename: skos_categories_en.nt
 
 === Geonames Ontology
 Description: An ontology to add geospatial semantic information to the Web documents
+
 Publisher: http://www.geonames.org/ontology/documentation.html
+
 Download: http://www.geonames.org/ontology/ontology_v2.2.1.rdf
+
 Filename: geonames_ontology_v2.2.1.rdf
 
 === GTAA Thesaurus
 Description: Gemeenschappelijke Thesaurus Audiovisuele Archieven (Common Thesaurus Audiovisual Archives) developed by the Netherlands Institute for Sound and Vision
+
 Publisher: http://sites.google.com/site/informatieprofessional/gtaa
+
 Download: http://semanticweb.cs.vu.nl/lod/beeldengeluid/GTAA-25aug2010.ttl.gz
+
 Filename: GTAA-25aug2010.ttl
 
 === IPSV
 Description: The Integrated Public Sector Vocabulary, developed by the Office of the Deputy Prime Minister and the Cabinet Office e-Government Unit.
+
 Publisher: http://www.esd.org.uk/standards/ipsv/2.00/
+
 Download: The vocabulary is not available for bulk download, a dump containing all SKOS concepts was thankfully provided by the IPSV development team
+
 Filename: ipsv_skos.rdf
 
 === LCSH
 Description: The Library of Congress Subject Headings
+
 Publisher: http://id.loc.gov/download/
+
 Download: http://id.loc.gov/static/data/authoritiessubjects.rdfxml.skos.zip
+
 Filename: lcsh.rdf
 
 === Meketre
 Description: Thesaurus of the Meketre Project that contains concepts from the Egyptology domain
+
 Publisher: http://meketre.org/
+
 Download: Bulk download is not (yet) available. The vocabulary can be browsed and queried at http://meketrevocab.meketre.org/MeketreVocab
+
 Filename: pp_project_meketre_20110707.rdf
 
 === MeSH
 Description: Medical Subject Headings published by the National Institutes of Health
+
 Publisher: Developed by http://www.nlm.nih.gov/mesh/, SKOS version supplied by http://thesauri.cs.vu.nl/eswc06/
+
 Download: The vocabulary has been provided in three parts, http://thesauri.cs.vu.nl/eswc06/mesh/rdf/meshdata.rdf, http://thesauri.cs.vu.nl/eswc06/mesh/rdf/meshstructure.rdf, http://thesauri.cs.vu.nl/eswc06/mesh/rdf/meshqualifiers.rdf.
+
 Filename: mesh_complete.nt
 
 === NAICS
 Description: The North American Industry Classification System for classifying business establishments
+
 Publisher: http://www.census.gov/eos/www/naics/
+
 Download: http://purl.org/weso/datasets/pscs/naics/2012/naics-2012.ttl
+
 Filename: naics-2012.ttl
 
 === NYTP
 Description: The New York Times people authorities file
+
 Publisher: http://data.nytimes.com/
+
 Download: http://data.nytimes.com/N63271594737636157763.rdf
+
 Filename: people.rdf
 
 === Pressinfo
 Description: Press contacts information dataset of the University of Southampton
+
 Publisher: http://data.southampton.ac.uk/
+
 Download: http://data.southampton.ac.uk/dataset/pressinfo.html
+
 Filename: pressinfo.rdf
 
 === STW
 Description: Thesaurus for Economics published by the Leibniz Information Centre for Economics
+
 Publisher: http://zbw.eu/stw/versions/latest/about.en.html
+
 Download: http://zbw.eu/stw/versions/latest/download/about.en.html
+
 Filename: stw.rdf
