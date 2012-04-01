@@ -15,8 +15,8 @@ Download: http://code.google.com/p/agrovoc-cs-workbench/downloads/detail?name=ag
 
 Filename: agrovoc_wb_20110223_v_1_3.rdf
 
-=== DBpedia Categories
-Description: Wikipedia's user-generated categories structure
+=== DBpedia
+Description: DBpedia categories: Wikipedia's user-generated categories structure
 
 Publisher: http://dbpedia.org
 
@@ -24,7 +24,7 @@ Download: http://downloads.dbpedia.org/3.7/en/skos_categories_en.nt.bz2
 
 Filename: skos_categories_en.nt
 
-=== Geonames Ontology
+=== Geonames
 Description: An ontology to add geospatial semantic information to the Web documents
 
 Publisher: http://www.geonames.org/ontology/documentation.html
@@ -33,7 +33,7 @@ Download: http://www.geonames.org/ontology/ontology_v2.2.1.rdf
 
 Filename: geonames_ontology_v2.2.1.rdf
 
-=== GTAA Thesaurus
+=== GTAA
 Description: Gemeenschappelijke Thesaurus Audiovisuele Archieven (Common Thesaurus Audiovisual Archives) developed by the Netherlands Institute for Sound and Vision
 
 Publisher: http://sites.google.com/site/informatieprofessional/gtaa
