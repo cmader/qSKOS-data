@@ -1,10 +1,9 @@
-= qSKOS-data
+= qSKOS Vocabulary Dataset
 
 == About
-This repository contains data, results and further information related the {qSKOS project}[https://github.com/cmader/qSKOS]
 
-== TPDL 2012 Dataset
-In the following sections we provide a short description and additional information about the dataset we used for our paper "Finding Quality Issues in SKOS Vocabularies" (submitted for TPDL 2012).
+This repository contains the vocabulary dataset used in the {qSKOS project}[https://github.com/cmader/qSKOS]
+
 
 === AGROVOC
 Description: Multilingual agricultural thesaurus published by the Food and Agriculture Organization (FAO) of the United Nations
