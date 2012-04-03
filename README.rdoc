@@ -2,8 +2,7 @@
 
 == About
 
-This repository contains the vocabulary dataset used in the {qSKOS project}[https://github.com/cmader/qSKOS]
-
+This repository contains the vocabulary dataset used in the {qSKOS project}[https://github.com/cmader/qSKOS]. All vocabularies have been downloaded from the respective project websites or were provided directly by the vocabulary creators.
 
 === AGROVOC
 Description: Multilingual agricultural thesaurus published by the Food and Agriculture Organization (FAO) of the United Nations
@@ -105,10 +104,10 @@ Download: http://data.southampton.ac.uk/dataset/pressinfo.html
 Filename: pressinfo.rdf
 
 === STW
-Description: Thesaurus for Economics published by the Leibniz Information Centre for Economics
+Description: Thesaurus for Economics published by the Leibniz Information Centre for Economics. The stw_complete.rdf file contains the "base" STW vocabulary complemented with all all available (from the STW project page) mapping information to external resources.
 
 Publisher: http://zbw.eu/stw/versions/latest/about.en.html
 
 Download: http://zbw.eu/stw/versions/latest/download/about.en.html
 
-Filename: stw.rdf
+Filename: stw_complete.rdf
