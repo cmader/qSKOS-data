@@ -7,7 +7,7 @@ This repository contains the vocabulary dataset used in the {qSKOS project}[http
 === AGROVOC
 Description: Multilingual agricultural thesaurus published by the Food and Agriculture Organization (FAO) of the United Nations
 
-Publisher: http://aims.fao.org/website/AGROVOC-Thesaurus/sub
+Publisher: http://aims.fao.org/standards/agrovoc/about
 
 Download: http://code.google.com/p/agrovoc-cs-workbench/downloads/detail?name=agrovoc_SKOS-RDFXML_2012-03-22.zip&can=3&q=
 
