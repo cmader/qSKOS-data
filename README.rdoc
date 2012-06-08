@@ -2,7 +2,9 @@
 
 == About
 
-This repository contains the vocabulary dataset used in the {qSKOS project}[https://github.com/cmader/qSKOS]. All vocabularies have been downloaded from the respective project websites or were provided directly by the vocabulary creators.
+This repository contains the publicly available vocabularies examined in our publication {Finding Quality Issues in SKOS Vocabularies}[http://arxiv.org/abs/1206.1339]. For performing vocabulary evaluations, please use the {qSKOS}[https://github.com/cmader/qSKOS] application/library.
+
+All vocabularies have been downloaded from the respective project websites or were provided directly by the vocabulary creators.
 
 === AGROVOC
 Description: Multilingual agricultural thesaurus published by the Food and Agriculture Organization (FAO) of the United Nations
